@@ -13,10 +13,10 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 - 💬 Ask me about anything related to ML, psychology and Management .
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
- <a href = https://github.com/simarpreetsingh-019 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/simarpreetsingh019 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/simarpreet019 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
-<a href = https://medium.com/@simarpreetsingh.019 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a> 
+ <a href = https://github.com/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/simarpreetsingh019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/simarpreet019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
+<a href = https://medium.com/@simarpreetsingh.019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=simarpreetsingh.019@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
 
  &emsp;
