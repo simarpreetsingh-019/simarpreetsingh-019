@@ -21,6 +21,6 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 
  &emsp;
 
-<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="250" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ![Simarpreet's github stats](https://github-readme-stats.vercel.app/api?username=simarpreetsingh-019&theme=vue&show_icons=true)
