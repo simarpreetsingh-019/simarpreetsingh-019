@@ -37,6 +37,8 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
 
+ &emsp;
+
 <img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 ![Simarpreet's github stats](https://github-readme-stats.vercel.app/api?username=simarpreetsingh-019&theme=vue&show_icons=true)
