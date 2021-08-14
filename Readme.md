@@ -10,19 +10,21 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
 
 ### 😉 About
-- 🔭 I’m currently contributing in [Contributor's Hack 20](https://hakincodes.tech/ "HackinCodes").
-- 🌱 I’m currently learning Pytorch, OpenCV, Django , Flask. 
+- 🔭 Last contributed in [Contributor's Hack 20](https://hakincodes.tech/ "HackinCodes").
+- 🌱 I’m currently learning Web Dev, OpenCV, React.js. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
-- 💬 Ask me about anything related to ML, psychology and Management .
+- 💬 Ask me about anything related to New technology, psychology and Management .
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
+ <a href = https://simarpreetsingh-019.github.io target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/digidentity.svg height='30' weight='30'/></a> 
  <a href = https://github.com/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/simarpreetsingh019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/simarpreet019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/></a>
 <a href = https://medium.com/@simarpreetsingh.019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a> 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=simarpreetsingh.019@gmail.com" target="_blank"><img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg height='30' weight='30'/></a>
-<a href = https://stackoverflow.com/users/11798523/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>  
+<a href = https://stackoverflow.com/users/11798523/simarpreetsingh-019 target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg height='30' weight='30'/></a>
+<a href = https://www.hackerrank.com/Simarpreetsingh4 target='_blank'> <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height='30' weight='30'/></a> 
 
  &emsp;
 
@@ -35,7 +37,8 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
 
- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
+ <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
 
