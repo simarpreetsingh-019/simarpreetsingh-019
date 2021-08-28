@@ -10,6 +10,7 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
 
 ### 😉 About
+- 🔭 Will be contributing in [Girlscript's Winter of Code(GWOC) 21](https://gwoc.girlscript.tech/ "girlscript.tech").
 - 🔭 Last contributed in [Contributor's Hack 20](https://hakincodes.tech/ "HackinCodes").
 - 🌱 I’m currently learning Web Dev, OpenCV, React.js. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
