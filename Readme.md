@@ -58,4 +58,4 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 
 <img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-![Simarpreet's github stats](https://github-readme-stats.vercel.app/api?username=simarpreetsingh-019&theme=vue&bg_color=00000000&show_icons=true&hide_border=true)
+![Simarpreet's github stats](https://github-readme-stats.vercel.app/api?username=simarpreetsingh-019&theme=vue&bg_color=00000000&text_color=70a8f3&title_color=70a8f3&icon_color=70a8f3&show_icons=true&hide_border=true)
