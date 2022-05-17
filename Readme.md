@@ -47,6 +47,15 @@ In my free time, either I am learning new skills or doing exercise, or listen to
 
  &emsp;
 
+<p align="center">
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=simarpreetsingh-019&theme=github-dark-blue&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+</p>
+
+&emsp;
+<img src="https://activity-graph.herokuapp.com/graph?username=simarpreetsingh-019&theme=github-dark-blue&area_color=00000000&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+
+ &emsp;
+
 <img align="right" height="250" width="300" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-![Simarpreet's github stats](https://github-readme-stats.vercel.app/api?username=simarpreetsingh-019&theme=vue&show_icons=true)
+![Simarpreet's github stats](https://github-readme-stats.vercel.app/api?username=simarpreetsingh-019&theme=vue&bg_color=00000000&show_icons=true&hide_border=true)
