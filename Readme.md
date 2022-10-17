@@ -10,12 +10,14 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
 
 ### 😉 About
-- 🔭 Currently Research Trainee Intern at _DRDO_.
+- 🔭 Working as DevRel Intern at _Tezos India_.
+- 🌱 Founder of _Web3Panjab_.
+- 🔭 Former Research Trainee Intern at _DRDO_.
 - 🔭 Last contributed in [Girlscript's Winter of Code(GWOC) 21](https://gwoc.girlscript.tech/ "girlscript.tech").
 - 🌱 I’m currently learning Web Dev, OpenCV, React.js. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
-- 💬 Ask me about anything related to New technology, psychology and Management .
+- 💬 Ask me about anything related to Web3,  New technology, psychology and Management .
 </p><h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'> 
  <a href = https://simarpreetsingh-019.github.io target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/digidentity.svg height='30' weight='30'/></a> 
