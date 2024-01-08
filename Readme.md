@@ -10,10 +10,10 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
 
 ### 😉 About
-- 🔭 Working as DevRel Intern at _Tezos India_.
+- 🔭 Working as Developer Relations  at _Tezos India_.
 - 🌱 Founder of _Web3Panjab_.
 - 🔭 Former Research Trainee Intern at _DRDO_.
-- 🔭 Last contributed in [Girlscript's Winter of Code(GWOC) 21](https://gwoc.girlscript.tech/ "girlscript.tech").
+- 🔭 Selected as part of [SolidityATL](https://solidity-atl.kittlabs.io/)'s Web3 security fall '23 Bootcamp, now selected for training as Auditor.
 - 🌱 I’m currently learning Web Dev, OpenCV, React.js. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🤔 I’m looking for help with Data Structures and Algorithm.
