@@ -10,8 +10,8 @@ In my free time, either I am learning new skills or doing exercise, or listen to
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=simarpreetsingh-019" alt="simarpreetsingh-019" /> </p>
 
 ### 😉 About
-- 🔭 Working as Developer Relations  at _Tezos India_.
-- 🌱 Founder of _Web3Panjab_.
+- 🔭 Worked as Developer Relations  at _Tezos India_.
+- 🌱 Founder of _Web3Panjab_ , now making it profitable.
 - 🔭 Former Research Trainee Intern at _DRDO_.
 - 🔭 Selected as part of [SolidityATL](https://solidity-atl.kittlabs.io/)'s Web3 security fall '23 Bootcamp, now selected for training as Auditor.
 - 🌱 I’m currently learning Web Dev, OpenCV, React.js. 
